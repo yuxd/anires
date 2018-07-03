@@ -24,9 +24,9 @@
         fullStyle: [
           `/*
 * Inspired by http://strml.net/
-* 源码地址 https://github.com/sitexa/anires
-* 大家好，我是南方。
-* 我来写一份简历！
+* 源码地址 https://github.com/yuxd/anires
+* 各位领导，大家好，我是余小东。
+* 今天我有幸来竞聘主任助理！
 */
 
 /* 给所有元素加上过渡效果 */
@@ -123,7 +123,7 @@ html{
 }
 `],
         currentMarkdown: '',
-        fullMarkdown: `南方
+        fullMarkdown: `东哥
 ====
 坐标：湖南长沙。
 
